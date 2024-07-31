@@ -1,5 +1,5 @@
-İlk Metot Uygulamamız
-  Aynı uygulama içerisinde 4 adet metot tanımlamanız ve çağırmanız isteniyor :
+#İlk Metot Uygulamamız
+Aynı uygulama içerisinde 4 adet metot tanımlamanız ve çağırmanız isteniyor :
 
 1.Geriye Değer Döndürmeyen Bir void metot.
 
