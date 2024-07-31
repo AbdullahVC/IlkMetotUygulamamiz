@@ -1,4 +1,4 @@
-#İlk Metot Uygulamamız
+# İlk Metot Uygulamamız
 
 Aynı uygulama içerisinde 4 adet metot tanımlamanız ve çağırmanız isteniyor :
 
